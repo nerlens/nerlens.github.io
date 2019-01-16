@@ -250,7 +250,7 @@ Browse to [http://localhost:9000](http://localhost:9000) to access the Portainer
 - Connect to multiple instances of remove Docker servers
 
 
-![Portainer](./images/Portainer_1.jpg)
+![Portainer](/images/Docker1/Portainer_1.jpg)
 
 ## Docker Compose
 
@@ -386,6 +386,6 @@ docker image history christopherstavros/facebooc_demo:v2
 docker image push christopherstavros/facebooc_demo:v2
 ```
 
-![Image push](./images/Image_push1.jpg)
+![Image push](/images/Docker1/Image_push1.jpg)
 
 
